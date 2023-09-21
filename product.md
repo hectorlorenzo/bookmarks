@@ -16,6 +16,8 @@ A primer for engineers on how to evaluate a product roadmap, including nine big 
 - Does it take on appropriate risk?
 - Is it easy to reference? Is it a living document?
 
+---
+
 **Why I Invented the Now-Next-Later Roadmap**
 https://www.prodpad.com/blog/invented-now-next-later-roadmap/
 

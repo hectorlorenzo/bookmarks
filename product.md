@@ -18,7 +18,7 @@ A primer for engineers on how to evaluate a product roadmap, including nine big 
 
 ---
 
-**Why I Invented the Now-Next-Later Roadmap**
+**Why I Invented the Now-Next-Later Roadmap**  
 https://www.prodpad.com/blog/invented-now-next-later-roadmap/
 
 A different way to organise a timelined product roadmap: Now, Next, and Later as guiding blocks instead of specific timelines that could harm product and engineering teams.
